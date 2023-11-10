@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dinesh Jayasinghe</h1>
 <h3 align="center">Enthusiastic IT student|Exploring the limitless world with new technologies</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshjayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="dineshjayasinghe" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dineshjayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="dineshjayasinghe" /> </p>
 
 - 🌱 I’m currently learning **BSc (Hons) in Information Tecnology**
 
